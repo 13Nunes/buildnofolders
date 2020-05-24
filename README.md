@@ -1,4 +1,7 @@
-# buildnofolders
+# Build Vue sem pastas
+
+A configuração está no arquivo vue.config.js que gera um buid sem nenhum pasta e sem conflitos.
+Esse tipo de build é útil quando precisamos colocar o SPA em um ambiente de terceiros e a criação de pastas é complicada ou impossível.
 
 ## Project setup
 ```
